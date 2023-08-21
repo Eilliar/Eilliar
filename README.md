@@ -47,3 +47,4 @@ Furthermore, I am constantly learning and expanding my knowledge in the field of
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eilliar&repo=mlflow_tracking_server&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eilliar&repo=perceptron&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eilliar&repo=ada_pooi_project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
